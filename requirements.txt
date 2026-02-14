@@ -1,0 +1,36 @@
+# FastAPI Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Environment
+python-dotenv
+
+# LLM Client
+groq
+
+# Data Handling
+pandas
+openpyxl
+
+# PDF Processing
+PyMuPDF
+
+# LangChain + Vector DB
+langchain-text-splitters
+langchain-community
+sentence-transformers
+faiss-cpu
+
+# Audio Processing
+speechrecognition
+pydub
+gTTS
+
+# Language Detection
+langdetect
+
+# Extra (Recommended for Stability)
+numpy
+scipy
+torch
